@@ -11,5 +11,5 @@ El proyecto se desarrollo completamente en lenguaje Java,
 donde se hace uso de la interfaz grafica propia de Java.
 
 A su vez, se hace uso de diversos elementos, tal como hilos de ejecucion,
-herramientas para leer y modificar archivos de texto, etc.
+herramientas para leer y modificar archivos de texto, uso de multimedia, etc.
 
