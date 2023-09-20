@@ -3,3 +3,4 @@ Laura	7250	02:33
 Emmanuel	7150	02:26
 Gerardo	6850	00:52
 Alex	5450	01:32
+pepe	2900	00:39
