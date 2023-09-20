@@ -1,18 +1,15 @@
-## Getting Started
+## Descripcion del proyecto.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+El proyecto es una adaptacion del famoso juego producido por
+PopCap Games. El juego consta de una cuadricula de gemas, donde
+al alinear 3 gemas, estas desaparecen y te dan puntos, hay muchisimas
+mas formas de alinear las gemas, cada una con su respectivo
+puntaje y funcionalidades unicas.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+El proyecto se desarrollo completamente en lenguaje Java,
+donde se hace uso de la interfaz grafica propia de Java.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+A su vez, se hace uso de diversos elementos, tal como hilos de ejecucion,
+herramientas para leer y modificar archivos de texto, etc.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
