@@ -24,7 +24,7 @@ java Bejeweled
 This project was created by [Emmanuel Munoz](https://github.com/emunozce) and [Gerardo Delgado](https://github.com/Gerardo1209) as part of a college assignment. Feel free to contribute to the project by submitting bug fixes, improvements, or additional features through pull requests.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgements
 Special thanks to PopCap Games for creating the original Bejeweled game that inspired this project.
