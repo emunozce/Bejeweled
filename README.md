@@ -1,7 +1,5 @@
 # Bejeweled Java
 
-![Bejeweled](bejeweled.jpg)
-
 ### Description
 Welcome to the Bejeweled Java repository! This project is a Java implementation of the classic puzzle game Bejeweled, developed as a college project.
 
