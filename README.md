@@ -21,7 +21,7 @@ java Bejeweled
 ```
 
 ### Credits
-This project was created by [Emmanuel Munoz](https://github.com/emunozce) and [Gerardo Delgado](https://github.com/Gerardo1209) as part of a college assignment. Feel free to contribute to the project by submitting bug fixes, improvements, or additional features through pull requests.
+This project was created by [Emmanuel Munoz](https://github.com/emunozce) and [Gerardo Delgado](https://github.com/Gerardo1209) as part of a college assignment.
 
 ### License
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
