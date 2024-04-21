@@ -14,7 +14,7 @@ Welcome to the Bejeweled Java repository! This project is a Java implementation 
 To run the game, make sure you have Java installed on your system. Then, simply clone this repository to your local machine and compile the source code using your favorite Java IDE or command-line compiler.
 
 ```bash
-git clone https://github.com/emunozce/Bejeweled.git
+git clone https://github.com/emunozce/Bejeweled.git bejeweled-java
 cd bejeweled-java
 javac Bejeweled.java
 java Bejeweled
