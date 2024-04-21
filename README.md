@@ -1,15 +1,23 @@
-## Descripcion del proyecto.
+# Bejeweled Java
 
-El proyecto es una adaptacion del famoso juego producido por
-PopCap Games. El juego consta de una cuadricula de gemas, donde
-al alinear 3 gemas, estas desaparecen y te dan puntos, hay muchisimas
-mas formas de alinear las gemas, cada una con su respectivo
-puntaje y funcionalidades unicas.
+![Bejeweled](bejeweled.jpg)
 
+### Description
+Welcome to the Bejeweled Java repository! This project is a Java implementation of the classic puzzle game Bejeweled, developed as a college project.
 
-El proyecto se desarrollo completamente en lenguaje Java,
-donde se hace uso de la interfaz grafica propia de Java.
+### Features
+- Classic Bejeweled gameplay experience.
+- Colorful and visually appealing graphics.
+- User-friendly interface.
+- Sound effects for an immersive experience.
+- Score tracking functionality.
 
-A su vez, se hace uso de diversos elementos, tal como hilos de ejecucion,
-herramientas para leer y modificar archivos de texto, uso de multimedia, etc.
+### Installation
+To run the game, make sure you have Java installed on your system. Then, simply clone this repository to your local machine and compile the source code using your favorite Java IDE or command-line compiler.
+
+```bash
+git clone https://github.com/your-username/bejeweled-java.git
+cd bejeweled-java
+javac Bejeweled.java
+java Bejeweled
 
